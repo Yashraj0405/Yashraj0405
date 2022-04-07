@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **Yashraj0405/Yashraj0405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://app.daily.dev/yashraj_24"><img src="https://api.daily.dev/devcards/204789c8b56745db94ec4ee658e2efdc.png?r=5hx" width="400" alt="Yashraj's Dev Card"/></a>
