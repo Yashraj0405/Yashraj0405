@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <a href="https://app.daily.dev/yashraj_24"><img src="https://api.daily.dev/devcards/204789c8b56745db94ec4ee658e2efdc.png?r=5hx" width="400" alt="Yashraj's Dev Card"/></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashraj0405&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Yashaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashraj0405&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Yashraj's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Karansidds&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
