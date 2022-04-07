@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://app.daily.dev/yashraj_24"><img src="https://api.daily.dev/devcards/204789c8b56745db94ec4ee658e2efdc.png?r=5hx" width="400" alt="Yashraj's Dev Card"/></a>
-<a href="https://app.daily.dev/yashraj_24"><img src="https://api.daily.dev/devcards/204789c8b56745db94ec4ee658e2efdc.png?r=5hx" width="400" alt="Yashraj's Dev Card"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=ADD_THEME_HERE" width="400">
+
