@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://i.postimg.cc/7PKHxMRZ/![Banner](https://github.com/Yashraj0405/Yashraj0405/assets/91713390/357d65c2-11cc-45bd-9322-13c0f1b878f2)" alt="Yashraj Patil" />
 <a href="https://app.daily.dev/yashraj_24"><img src="https://api.daily.dev/devcards/204789c8b56745db94ec4ee658e2efdc.png?r=5hx" width="400" alt="Yashraj's Dev Card"/></a>
 
 [![Yashaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashraj0405&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
