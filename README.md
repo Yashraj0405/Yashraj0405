@@ -13,6 +13,7 @@ Hi, I'm Yashraj!<br><br>I am a full-stack developer who loves solving complex en
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yashraj0405&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+{"leetcode":{"easy":3,"hard":0,"medium":0,"shas":{"0189-rotate-array":{"0189-rotate-array.java":"6f14ed27754c29fb52efe0a32e3f3f61c640a0ba","README.md":"b710072ecd8b8c5020863cf6ed6cb567a8d0c8f7"},"0283-move-zeroes":{"0283-move-zeroes.java":"7019fdafe59b7bd5b8f4edb37291745baeadc336","README.md":"28d20bb062aa7dc5a9395769b41f7a80a0378b71","difficulty":"easy"},"README.md":{"":"c302a62599bb9d6c8e098136cf965d53dfd8a878"},"0485-max-consecutive-ones":{"0485-max-consecutive-ones.java":"30db919f2fca98fc6e6814b0b58e057a9a12d977","README.md":"0a88ee73233dd3a1dada777b4b3139b22ebe4d81","difficulty":"easy"},"stats.json":{"":"3eb6e7ab61f8f7a8de7a0bd32dc2e411bc8f7e4f"},"0136-single-number":{"0136-single-number.java":"d2c05ed955e13e10845795887be5e162fb8a90d7","README.md":"c1fc84a677cd198edacf1b3bd6d029d9fb49369b","difficulty":"easy"}},"solved":3}}
 [![](https://komarev.com/ghpvc/?username=Yashraj0405&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
