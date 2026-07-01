@@ -12,7 +12,6 @@ Hi, I'm Yashraj!<br><br>I am a full-stack developer who loves solving complex en
 ![](https://streak-stats.demolab.com/?user=Yashraj0405&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yashraj0405&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-![LeetCode Stats](https://leetcode-stats.vercel.app/?username=eTLvXZ5RDQ&theme=dark)
+--
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
